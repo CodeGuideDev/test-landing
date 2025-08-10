@@ -14,8 +14,8 @@ const geistMono = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'CodeGuide Starter Lite',
-  description: 'Starter kit from codeguide.dev',
+  title: 'Codespace - AI CLI Tool',
+  description: 'Intelligent command-line interface that understands your code and accelerates your productivity.',
 }
 
 export default function RootLayout({
